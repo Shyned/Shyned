@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 
-![](http://giphy.com/gifs/studiosoriginals-13GgTtFZZDIcjttYXg)
+![]("http://giphy.com/gifs/studiosoriginals-13GgTtFZZDIcjttYXg")
