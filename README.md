@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 
-![](http://<iframe src="https://giphy.com/embed/13GgTtFZZDIcjttYXg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-13GgTtFZZDIcjttYXg">via GIPHY</a></p>)
+![](http://giphy.com/gifs/studiosoriginals-13GgTtFZZDIcjttYXg)
